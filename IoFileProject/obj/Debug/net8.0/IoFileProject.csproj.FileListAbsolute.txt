@@ -1,0 +1,15 @@
+C:\Users\Ramisettylokesh\source\repos\IoFileProject\IoFileProject\bin\Debug\net8.0\IoFileProject.exe
+C:\Users\Ramisettylokesh\source\repos\IoFileProject\IoFileProject\bin\Debug\net8.0\IoFileProject.deps.json
+C:\Users\Ramisettylokesh\source\repos\IoFileProject\IoFileProject\bin\Debug\net8.0\IoFileProject.runtimeconfig.json
+C:\Users\Ramisettylokesh\source\repos\IoFileProject\IoFileProject\bin\Debug\net8.0\IoFileProject.dll
+C:\Users\Ramisettylokesh\source\repos\IoFileProject\IoFileProject\bin\Debug\net8.0\IoFileProject.pdb
+C:\Users\Ramisettylokesh\source\repos\IoFileProject\IoFileProject\obj\Debug\net8.0\IoFileProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramisettylokesh\source\repos\IoFileProject\IoFileProject\obj\Debug\net8.0\IoFileProject.AssemblyInfoInputs.cache
+C:\Users\Ramisettylokesh\source\repos\IoFileProject\IoFileProject\obj\Debug\net8.0\IoFileProject.AssemblyInfo.cs
+C:\Users\Ramisettylokesh\source\repos\IoFileProject\IoFileProject\obj\Debug\net8.0\IoFileProject.csproj.CoreCompileInputs.cache
+C:\Users\Ramisettylokesh\source\repos\IoFileProject\IoFileProject\obj\Debug\net8.0\IoFileProject.sourcelink.json
+C:\Users\Ramisettylokesh\source\repos\IoFileProject\IoFileProject\obj\Debug\net8.0\IoFileProject.dll
+C:\Users\Ramisettylokesh\source\repos\IoFileProject\IoFileProject\obj\Debug\net8.0\refint\IoFileProject.dll
+C:\Users\Ramisettylokesh\source\repos\IoFileProject\IoFileProject\obj\Debug\net8.0\IoFileProject.pdb
+C:\Users\Ramisettylokesh\source\repos\IoFileProject\IoFileProject\obj\Debug\net8.0\IoFileProject.genruntimeconfig.cache
+C:\Users\Ramisettylokesh\source\repos\IoFileProject\IoFileProject\obj\Debug\net8.0\ref\IoFileProject.dll
